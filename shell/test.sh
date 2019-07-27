@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is third branch"
+echo "this is second branch"
